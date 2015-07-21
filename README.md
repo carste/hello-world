@@ -1,2 +1,3 @@
 # hello-world
-miscellaneous projects
+
+This repo is a sandbox full of Git grit.
